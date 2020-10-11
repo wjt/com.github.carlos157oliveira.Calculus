@@ -30,8 +30,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/carlos157oliveira/Calculus.git",
-                    "tag": "v1.2.0",
-                    "commit": "d03e43ded071272a1427bca93edfae9ae47e0851"
+                    "tag": "v1.3.0",
+                    "commit": "3626e6e6dbd1e22b72c2c3aee4853d7dbf828b37"
                 }
             ]
         }
