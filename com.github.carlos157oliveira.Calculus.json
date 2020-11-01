@@ -21,7 +21,7 @@
         "*.a"
     ],
     "modules" : [
-	"python3-requirements.json",
+		"python3-requirements.json",
         {
             "name" : "calculus",
             "builddir" : true,
@@ -30,8 +30,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/carlos157oliveira/Calculus.git",
-                    "tag": "v1.3.2",
-                    "commit": "06706f581248c53d5f0fa371ad34f74142c81331"
+                    "tag": "v1.3.3",
+                    "commit": "3cd9b972f2afe3b249ecce69c1268bfbd2b37d55"
                 }
             ]
         }
