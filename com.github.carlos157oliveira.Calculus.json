@@ -1,14 +1,14 @@
 {
     "app-id" : "com.github.carlos157oliveira.Calculus",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "3.38",
+    "runtime-version" : "42",
     "sdk" : "org.gnome.Sdk",
     "command" : "calculus",
     "finish-args" : [
         "--share=ipc",
         "--socket=fallback-x11",
         "--socket=wayland",
-		"--filesystem=home"
+        "--filesystem=home"
     ],
     "cleanup" : [
         "/include",
@@ -22,7 +22,7 @@
         "*.a"
     ],
     "modules" : [
-		"python3-requirements.json",
+        "python3-requirements.json",
         {
             "name" : "calculus",
             "builddir" : true,
