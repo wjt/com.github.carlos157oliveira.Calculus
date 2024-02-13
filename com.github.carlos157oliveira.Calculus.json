@@ -31,12 +31,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/carlos157oliveira/Calculus.git",
-                    "tag": "v1.5.2",
-                    "commit": "2c267f1a2480e7f48e46cb38e718fad84109b34e"
-                },
-                {
-                    "type": "patch",
-                    "path": "calculus-po-fix.patch"
+                    "tag": "v1.5.3",
+                    "commit": "e39fc226150747374429993faeeb7d417becb400"
                 }
             ]
         }
