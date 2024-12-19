@@ -1,7 +1,7 @@
 {
     "app-id" : "com.github.carlos157oliveira.Calculus",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "42",
+    "runtime-version" : "47",
     "sdk" : "org.gnome.Sdk",
     "command" : "calculus",
     "finish-args" : [
@@ -22,6 +22,9 @@
         "*.a"
     ],
     "modules" : [
+        "pybind11.json",
+        "qhull.json",
+        "python3-build-dependencies.json",
         "python3-requirements.json",
         {
             "name" : "calculus",
